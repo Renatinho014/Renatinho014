@@ -1,6 +1,6 @@
-Meu nome é Luiz Renato
-Estou estudando no Alura 
-Estou me aprofundando na linguagem JavaScript
+Meu nome é Luiz Renato.
+Estou estudando no Alura .
+Estou me aprofundando na linguagem JavaScript,
 Irei utilizar o GitHub para organizar meus projetos e compartilhar parte dos meus projetos desenvolvidos
 
 
